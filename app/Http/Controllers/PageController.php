@@ -72,4 +72,29 @@ class PageController extends Controller
             ]
         );
     }
+    public function ariaTemplates()
+    {
+        return view('case-studies/aria-templates')->with([
+                "navPage" => "consulting"
+            ]
+        );
+    }
+
+    public function digitalAgencies()
+    {
+        return view('digital-agencies')->with([
+                "navPage" => "consulting"
+            ]
+        );
+    }
+
+ public function topTier()
+    {
+        return view('top-tier')->with([
+                "navPage" => "consulting"
+            ]
+        );
+    }
+
+
 }

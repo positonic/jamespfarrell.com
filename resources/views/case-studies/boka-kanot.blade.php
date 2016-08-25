@@ -6,9 +6,9 @@
 
     <div class="row{{-- page-container-content--}}">
         <div class="col-md-12">
-            <a href="/consulting/case-studies/whygo" style="float:right;margin-top:15px;">next case study ></a>
+            <a href="/consulting/case-studies/aria-templates" style="float:right;margin-top:15px;">next case study ></a>
 
-            <h1>Case study #2</h1>
+            <h1>Case study #3</h1>
             <h3><a href="http://bokakanot.se/">BokaKanot</a> is a startup aimed at the Outdoor adventure market</h3>
             <br/>
 

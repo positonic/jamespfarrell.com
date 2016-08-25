@@ -5780,7 +5780,8 @@ body {
 
 #page-container {
   height: 100%;
-  position: relative; }
+  position: relative;
+  padding: 2% 4%; }
 
 #page-container h1 {
   color: white; }
@@ -5791,6 +5792,10 @@ body {
 
 #projects-page .row {
   border-bottom: 1px solid #FFF; }
+
+#svgLogo {
+  float: left;
+  margin: 5px 10px 5px -15px; }
 
 #page-container {
   color: white;

@@ -19,6 +19,7 @@ body {
 {
   height:100%;
   position:relative;
+  padding: 2% 4%;
 }
 
 #page-container h1 {
@@ -34,4 +35,14 @@ body {
 #projects-page .row {
 
   border-bottom: 1px solid #FFF;
+}
+
+#home-page {
+
+
+}
+
+#svgLogo {
+  float: left;
+  margin: 5px 10px 5px -15px;
 }
