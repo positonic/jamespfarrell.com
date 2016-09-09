@@ -1,6 +1,6 @@
 @extends('app')
 
-@section('title') About James Farrell @endsection
+@section('title') Freelance PHP &amp; Javascript developer in Berlin @endsection
 
 @section('content')
 
