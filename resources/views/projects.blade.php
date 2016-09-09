@@ -9,14 +9,14 @@
             <h1>Projects</h1>
             <div class="row">
                 <div class="col-md-6">
-                    <p><a href="http://139.59.128.155/track/FpTyHQcau"><img style="width:100%;margin-top:15px" src="/images/projects/synth.png"/></a></p>
+                    <p><a href="http://139.59.128.155/track/FpTyHQcau"><img style="width:100%;margin-top:15px" src="/images/projects/fluentsynth.png"/></a></p>
                 </div>
                 <div class="col-md-6">
-                    <h2>Fluent Synth</h2>
+                    <h2><a href="http://139.59.128.155/track/FpTyHQcau">Fluent Synth</a></h2>
                     <p>This is a Digital Audio Workstation (DAW) in the web browser created using Javascript.</p>
                     <p>It includes a 2 oscillator synthesizor and drum machine that only uses sounds created from Oscillators (no samples here). There is also a recreation of the old school acid house favourite TB-303 baseline synthesisor.</p>
                     <p>Web DAW also allows for live collaboration between 2 or more people with live updates to the tracks made using web sockets</p>
-                    <p>Technologies include webpack, React, Redux, Web Components (Poymer)</p>
+                    <p>Technologies include webpack, React, Redux, Web Components (Poymer), NodeJs, and websockets.io</p>
                 </div>
             </div>
             <div class="row">
