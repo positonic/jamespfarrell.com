@@ -34,7 +34,7 @@
                 <li class="{{ $navPage == "consulting" ? 'active' : ''  }}"><a href="{{ url('/consulting') }}">consulting</a></li>
 
 
-                <li class="dropdown">
+                {{--<li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                         {{ Config::get('languages')[App::getLocale()] }}
                     </a>
@@ -47,7 +47,7 @@
                             @endif
                         @endforeach
                     </ul>
-                </li>
+                </li>--}}
 
             </ul>
         </div><!-- /.navbar-collapse -->

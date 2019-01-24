@@ -21,16 +21,6 @@
             </div>
             <div class="row">
                 <div class="col-md-6">
-                    <p><a href="http://reservationmonster.com/"><img style="width:100%;margin-top:15px" src="/images/projects/reservation-monster.png"/></a></p>
-                </div>
-                <div class="col-md-6">
-                    <h2><a href="http://reservationmonster.com/">ReservationMonster</a></h2>
-                    <p>ReservationMonster.com started life as a booking system for hotels with several hotels in Paris and Dublin using the booking system on their website.</p>
-                    <p>ReservationMonster has since evolved into a generic booking system used in many niches including Hotels, Outdoor adventure centres, and Yacht rental companies.</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-6">
                     <p><a href="http://djembefola.com/"><img style="width:100%;margin-top:15px" src="/images/projects/djembefolaSS.png"/></a></p>
                 </div>
                 <div class="col-md-6">
